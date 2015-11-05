@@ -1,0 +1,27 @@
+{
+  "name": "I'll be back",
+  "version": "1.0.0",
+  "authors": [
+    "Max Bidiuk <makseo@freenet.de>"
+  ],
+  "description": "Back to Top button to scroll back to the top of the page",
+  "main": "illbeback.js",
+  "keywords": [
+    "back",
+    "top",
+    "scroll",
+    "button",
+    "smooth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
